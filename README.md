@@ -1,5 +1,5 @@
 # Portfolio
-                            live : https://portfolio-sandeep1.netlify.app
+                            live: https://portfolio-sandeep1.netlify.app
 
 
 
