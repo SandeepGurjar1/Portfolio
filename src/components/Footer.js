@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Mukul Kumar</h3>
+          <h3>Designed and Developed by Sandeep ❤️</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} MK</h3>
+          <h3>Copyright © {year}</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/cpt-mukul"
+                href="https://github.com/sandeepgurjar1"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/cpt-mukul/"
+                href="https://www.linkedin.com/in/sandeep-gurjar-3687b61b7/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/mukul._.bhargav"
+                href="https://www.instagram.com/gurjar_sandeep6499"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

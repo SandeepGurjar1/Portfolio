@@ -47,18 +47,7 @@ function About() {
         <Toolstack />
 
         <Github />
-      <br></br>
-      <br></br>
-      <br></br>
-   
-         <div className="stopstalk">
-         <h1 className="project-heading">
-         
-          <strong className="purple">Stop Stalk</strong> Graph
-        </h1>
-         <img src={stop} alt="about" className="imgstop"  style={{height:"80vh"}} />
-         </div>
-         
+      
       </Container>
     </Container>
   );

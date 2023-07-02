@@ -37,9 +37,7 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiRedis />
-      </Col>
+     
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
       </Col>

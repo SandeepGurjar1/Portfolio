@@ -39,15 +39,14 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Takshila"
-              description="Created an e-commerce website, Takshila, which specializes in selling secondhand books.
+              title="FoodFactory"
+              description="Created an e-commerce website, Food Factory, which specializes in selling fruits and veggies.
               Utilized HTML, CSS, and JavaScript to create a user-friendly andresponsive web
               interface.
-              Implemented a search function to enhance the user experience andallow users to
-              easily find desired books.
+              Implemented carting feature to add users product in a list.
               "
-              ghLink="https://github.com/cpt-mukul/takshila"
-              demoLink="https://takshilaa.netlify.app"
+              ghLink="https://sandeepgurjar1.github.io/E-commerce-website/"
+              
             />
           </Col>
 
