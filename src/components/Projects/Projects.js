@@ -30,7 +30,7 @@ function Projects() {
               Leveraged technical skills in React, HTML, CSS, and JavaScript to create a
               responsive and user-friendly web interface."
               ghLink="https://github.com/sandeepgurjar1/codrop-website"
-              {Demo href="https://codrop-website.netlify.app/"}
+              demoLink="https://codrop-website.netlify.app/"
        
             />
           </Col>
