@@ -25,12 +25,12 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Weather-Application"
-              description="Developed a weather application that utilizes Rest-APIs to provide users with 
-              real-time temperature and probability of rain in their desired city.
-              Leveraged technical skills in React, HTML, CSS, and JavaScript tocreate a
+              title="CoDrop WebApp"
+              description="Developed a WebApp that utilizes Rest-APIs to provide user to maintain his all coding platforms score at a place.Also user can check for upcoming competitive events.
+              Leveraged technical skills in React, HTML, CSS, and JavaScript to create a
               responsive and user-friendly web interface."
-              ghLink="https://github.com/cpt-mukul/WeatherApp"
+              ghLink="https://github.com/sandeepgurjar1/codrop-website"
+              {Demo href="https://codrop-website.netlify.app/"}
        
             />
           </Col>
