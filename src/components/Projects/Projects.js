@@ -49,11 +49,20 @@ function Projects() {
               
             />
           </Col>
-
-          
-          
-
-      
+            <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Gym WebSite"
+              description="Built a gym website for fitness freaks to register for different
+              kind of gym memberships. With different offers. Used HTML5, CSS, JavaScript and
+              JQuery for the development. Good and easy UI for user.
+              "
+              
+              ghLink="https://sandeepgurjar1.github.io/gymwebsite/"
+        
+            />
+          </Col>      
         </Row>
       </Container>
     </Container>
